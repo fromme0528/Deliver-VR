@@ -2,15 +2,20 @@
 Impliment of Deliver-VR : Delivery Driver with A.I. Vehicles in Virtual Environment
 
 Term Project of "Game Programming" Course in Korea University
+
 Demo Video : https://youtu.be/JMb5p2hvOqY
+
 Presentation : https://www.slideshare.net/MinwookChang/delivervr-delivery-driver-with-ai-vehicles-in-virtual-environment
 
-# Member
-Hongdeok Jun(wjsghdejr12@korea.ac.kr)
+# Members
+
+Hongdeok Jun (wjsghdejr12@korea.ac.kr)
 - World map construction, Sound & Animation, Story telling
-Minwook Chang(fromme0528@gmail.com) 
+
+Minwook Chang (fromme0528@gmail.com) 
 - VR interaction Player Movement, Scenario(main idea), Presentation, Merging
-Jinoh Kwun(gino2401@naver.com)
+
+Jinoh Kwun (gino2401@naver.com)
 - Car AI, Mini-map, Error correction
 
 # Development Environment
